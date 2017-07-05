@@ -1,3 +1,6 @@
+![](http://www.thinkphp.cn/Uploads/editor/2017-07-05/595d043d9ed5b.png)
+![](http://www.thinkphp.cn/Uploads/editor/2017-07-05/595d0445b4fea.png)
+![](http://www.thinkphp.cn/Uploads/editor/2017-07-05/595d044bb981d.png)
 安装说明
 
 ① 下载源码包：
