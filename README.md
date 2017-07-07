@@ -52,7 +52,9 @@ MAIL_PASSWORD=null
 
 ##### ⑤ 登录后台，后台使用的帐号与密码均为 admin，登入之后，您可以体验一番。
 
+
 > 联系作者
 Email: 3279867796@qq.com 
 官网：https://www.kancloud.cn/@tpcms
-QQ群：653354872
+交流群：653354872
+朕要体验：139.199.168.122:8888  test123 test123
