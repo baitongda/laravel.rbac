@@ -9,7 +9,7 @@ return [
     'USER_AUTH_TYPE' => 2,
     'USER_AUTH_KEY' => 'authId',
     'ADMIN_AUTH_KEY' => 'administrator',
-    'USER_AUTH_MODEL' => 'User',
+    'USER_AUTH_MODEL' => 'user',
     'AUTH_PWD_ENCODER' => 'md5',
     'USER_AUTH_GATEWAY' => '/admin/login',
     'NOT_AUTH_MODULE' => 'Login,Public',

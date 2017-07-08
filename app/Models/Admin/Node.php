@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\DB;
 
 class Node extends Admin
 {
-    protected $table = 'Node';
+    protected $table = 'node';
 
     protected $fillable = ['pid', 'title','display','level','name','data','status','remark'];//开启白名单字段
 

@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 
 class Access extends Admin
 {
-    protected $table = 'Access';
+    protected $table = 'access';
 
     public $timestamps = false;
 

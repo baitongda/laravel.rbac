@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Role extends Admin
 {
-    protected $table = 'Role';
+    protected $table = 'role';
 
     protected $validate = [
         'rules' => [

@@ -17,7 +17,7 @@ Route::get('/','Home\IndexController@index');
 
 
 //后台路由
-Route::group(['prefix' => 'admin','middleware' => 'web','namespace' => 'Admin'], function () {
+Route::group(['prefix' => 'admin','middleware' => 'admin','namespace' => 'Admin'], function () {
 
 	Route::get('/','IndexController@index');
 

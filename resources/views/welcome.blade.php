@@ -73,8 +73,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">文档</a>
-                    <a href="https://github.com/laravel/laravel">Git</a>
+                    <a href="https://www.kancloud.cn/tpcms/laravel_rbac">文档</a>
+                    <a href="https://github.com/chenbei360/laravel.rbac">Git</a>
                 </div>
             </div>
         </div>

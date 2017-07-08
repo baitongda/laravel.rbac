@@ -6,7 +6,7 @@ use App\Models\Admin;
 
 class User extends Admin
 {
-    protected $table = 'User';
+    protected $table = 'user';
 
     protected $fillable = ['username','password','role','status','remark','last_login_time','last_login_ip','last_location'];//开启白名单字段
 
