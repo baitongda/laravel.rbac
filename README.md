@@ -59,5 +59,5 @@ MAIL_PASSWORD=null
 Email: 3279867796@qq.com 
 官网：https://www.kancloud.cn/@tpcms
 交流群：653354872
-朕要体验：139.199.168.122:8888  test123 test123
+朕要体验：139.199.168.122:8888/admin  test123 test123
 ~~~
